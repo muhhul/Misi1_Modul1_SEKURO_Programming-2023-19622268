@@ -32,4 +32,5 @@ Pada video kali ini diajarkan bagaimana cara membuat akun di github, membuat rep
     - Masuk kedalam salah satu file
     - Click history
     - Terlihat history dari commit
+
     
